@@ -1,0 +1,110 @@
+search-info{
+    position: relative;
+}
+.header{
+	position: relative;
+	border-bottom: 1px solid #e8e8e8;
+	height: 45px;
+}
+.header .btn-city{
+	float: left;
+    height: 45px;
+    line-height: 45px;
+    font-size: 15px;
+    text-align: center;
+    width: 88px;
+    border-right: 1px solid #e8e8e8;
+}
+.header .btn-city span{
+	display: inline-block;
+}
+.header .btn-city .cityicon{
+	width: 8.5px;
+    height: 7px;
+    margin-left: 5px;
+    background: url(https://static.lagou.com/images/mobile/asset/common/img/icon.png) no-repeat -1px -2.5px;
+    background-size: 250px 250px;
+}
+.header .rinput{
+	height: 45px;
+    margin-left: 89px;
+    position: relative;
+}
+.header .rinput .inputer{
+	outline: none;
+	display: block;
+    border: none;
+    padding: 10px 0;
+    height: 25px;
+    line-height: 25px;
+    color: #333333;
+    width: 75%;
+    margin: 0 0 0 5%;
+    font-size: 15px;
+    float: left;
+}
+.header .rinput .search{
+	display: inline-block;
+    width: 20%;
+    height: 45px;
+    line-height: 45px;
+    float: right;
+    position: relative;
+}
+.header .rinput .search .searchicon {
+    display: block;
+    margin: 14px auto 0 auto;
+    width: 17px;
+    height: 17px;
+    background: url(https://static.lagou.com/images/mobile/asset/common/img/icon.png) no-repeat -14px -2.5px;
+    background-size: 250px 250px;
+}
+.cityList{
+    display: none;
+    position: absolute;
+    // top: -20px;
+    width: 100%
+}
+.custominfo {
+    height: 35px;
+    line-height: 35px;
+    font-size: 15px;
+    color: #5d897e;
+    background-color: #e7f7f3;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 14px;
+}
+.history {
+    background-color: #fafafa;
+    color: #666666;
+}
+.history .history-item {
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 0 0 0px;
+}
+.history .text {
+    display: inline-block;
+    height: 45px;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 75%;
+}
+.history .delcon {
+    float: right;
+    width: 40px;
+    height: 45px;
+    text-align: center;
+    width: 14%;
+}
+.history .delicon {
+    display: inline-block;
+    height: 10px;
+    width: 12px;
+    background: url(https://static.lagou.com/images/mobile/asset/common/img/icon.png) no-repeat -71.5px -4px;
+    background-size: 250px 250px;
+}

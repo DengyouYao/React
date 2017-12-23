@@ -1,0 +1,23 @@
+.mianshilist{
+	display: flex;
+	justify-content: space-around;
+}
+.mianshilist li{
+	text-align: center;
+	width: 50%;
+	line-height: 50px;
+}
+.mianshilist li a{
+	display: block;
+	color:#444;
+}
+.miancontent{
+	text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+    color: #555;
+}
+.miancontent a{
+	color: #00b38a;
+	text-decoration: underline;
+}

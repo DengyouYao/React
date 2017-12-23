@@ -1,0 +1,67 @@
+
+.login{
+	height: 707px;
+	background:linear-gradient(135deg,#029253,#00887b);
+	padding: 15px;
+}
+.login .input{
+	border-radius: 5px;
+}
+.login .input .loginlist{
+	background: #fff;
+	border-bottom: 1px solid #999;
+}
+.login .input div input{
+	outline: none;
+	border:0;
+	padding: 5% 6%;
+	color:#333;
+	height: 20px;
+	width: 87%;
+	
+}
+.btn-login{
+	outline: none;
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	border:none;
+	background: #0ac599;
+	color: #fff;
+	height: 50px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.btn-regist span{
+	display: block;
+	color: #45e3be;
+	font-size: 13px;
+	line-height: 30px;
+
+}
+.btn-regist a{
+	display: block;
+	width: 100%;
+	border-radius: 5px;
+	border:1px solid #45e3be;
+	color: #45e3be;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+}
+#vcodeWrap a {
+    margin-left: 20px;
+    font-size: 14px;
+    color: #45e3be;
+    text-decoration: none;
+    position: relative;
+    top: -15px;
+}
+#vcodeWrap a em {
+    color: #9bffd3;
+    font-style: normal;
+    line-height: 42px;
+    cursor: pointer;
+    text-decoration: underline;
+}

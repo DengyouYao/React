@@ -1,0 +1,229 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [{
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3308341,
+                    "positionName": "Java讲师",
+                    "city": "深圳",
+                    "createTime": "今天 09:12",
+                    "salary": "15k-25k",
+                    "companyId": 65521,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/0C/EE/Cgp3O1bYDsOAQm_5AAEbfZ2PpKE601.jpg",
+                    "companyName": "泽林信息",
+                    "companyFullName": "深圳市泽林信息咨询有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3308382,
+                    "positionName": "测试讲师",
+                    "city": "深圳",
+                    "createTime": "今天 09:12",
+                    "salary": "15k-25k",
+                    "companyId": 65521,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/0C/EE/Cgp3O1bYDsOAQm_5AAEbfZ2PpKE601.jpg",
+                    "companyName": "泽林信息",
+                    "companyFullName": "深圳市泽林信息咨询有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3310751,
+                    "positionName": "渠道管理",
+                    "city": "北京",
+                    "createTime": "今天 09:12",
+                    "salary": "6k-10k",
+                    "companyId": 51649,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/0D/9E/CgpEMljl4JCAB4NsAAAT2z7aW8s078.jpg",
+                    "companyName": "掌众金服",
+                    "companyFullName": "北京掌众科技有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3310808,
+                    "positionName": "渠道专员",
+                    "city": "北京",
+                    "createTime": "今天 09:12",
+                    "salary": "6k-10k",
+                    "companyId": 51649,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/0D/9E/CgpEMljl4JCAB4NsAAAT2z7aW8s078.jpg",
+                    "companyName": "掌众金服",
+                    "companyFullName": "北京掌众科技有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3306160,
+                    "positionName": "产品运营",
+                    "city": "杭州",
+                    "createTime": "今天 09:12",
+                    "salary": "10k-18k",
+                    "companyId": 4840,
+                    "companyLogo": "https://static.lagou.com/image1/M00/0A/64/CgYXBlTu4_aACtZ-AACNAYSGRdI299.png",
+                    "companyName": "光云科技",
+                    "companyFullName": "杭州光云科技股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3313538,
+                    "positionName": "客服专员",
+                    "city": "上海",
+                    "createTime": "今天 09:11",
+                    "salary": "4k-5k",
+                    "companyId": 23912,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/6F/59/Cgp3O1gkDuqATXRfAAASrOi32Mg378.jpg",
+                    "companyName": "好食期&爱抢购",
+                    "companyFullName": "上海多维度网络科技股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3207523,
+                    "positionName": "C++开发工程师 （云POS产品）",
+                    "city": "广州",
+                    "createTime": "今天 09:10",
+                    "salary": "5k-6k",
+                    "companyId": 166140,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/8A/C1/CgqKkVh29mqAPc-vAACIWUdyvOo631.jpg",
+                    "companyName": "鼎捷软件",
+                    "companyFullName": "鼎捷软件股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3198278,
+                    "positionName": "信管专员（需求工程师）",
+                    "city": "上海",
+                    "createTime": "今天 09:10",
+                    "salary": "8k-16k",
+                    "companyId": 166140,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/8A/C1/CgqKkVh29mqAPc-vAACIWUdyvOo631.jpg",
+                    "companyName": "鼎捷软件",
+                    "companyFullName": "鼎捷软件股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3212193,
+                    "positionName": "清结算产品经理",
+                    "city": "北京",
+                    "createTime": "今天 09:10",
+                    "salary": "10k-18k",
+                    "companyId": 165980,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/8A/7C/Cgp3O1h12gSAa4FBAAAVW9Ge7UQ171.jpg",
+                    "companyName": "包银消费金融",
+                    "companyFullName": "包头市包银消费金融股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3319976,
+                    "positionName": "SEM",
+                    "city": "上海",
+                    "createTime": "今天 09:10",
+                    "salary": "6k-8k",
+                    "companyId": 24995,
+                    "companyLogo": "https://static.lagou.com/image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+                    "companyName": "泛微",
+                    "companyFullName": "上海泛微网络科技股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3198201,
+                    "positionName": "财务专员",
+                    "city": "上海",
+                    "createTime": "今天 09:10",
+                    "salary": "6k-7k",
+                    "companyId": 24995,
+                    "companyLogo": "https://static.lagou.com/image1/M00/00/33/CgYXBlTUXI-AC08_AACIkHlny3Y866.jpg",
+                    "companyName": "泛微",
+                    "companyFullName": "上海泛微网络科技股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3309518,
+                    "positionName": "天猫客服月休8天",
+                    "city": "北京",
+                    "createTime": "今天 09:09",
+                    "salary": "4k-6k",
+                    "companyId": 86776,
+                    "companyLogo": "https://static.lagou.com/image1/M00/3E/D4/Cgo8PFW-4t6AE7quAAAf01ARPrk452.png?cc=0.6955517339520156",
+                    "companyName": "泡泡玛特",
+                    "companyFullName": "北京泡泡玛特贸易有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3216131,
+                    "positionName": "生产测试工程师",
+                    "city": "杭州",
+                    "createTime": "今天 09:09",
+                    "salary": "4k-6k",
+                    "companyId": 148058,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/58/F0/Cgp3O1fWUuuAEFHfAADSS00XO-M128.jpg",
+                    "companyName": "蓝联科技",
+                    "companyFullName": "浙江蓝联科技股份有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3218897,
+                    "positionName": "商务专员",
+                    "city": "北京",
+                    "createTime": "今天 09:09",
+                    "salary": "7k-9k",
+                    "companyId": 163169,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/83/78/CgqKkVhZ-MOAUdaWAAAIriM8wk4462.png",
+                    "companyName": "文思海辉",
+                    "companyFullName": "文思海辉技术有限公司"
+                }, {
+                    "logger": {
+                        "traceCapable": true,
+                        "name": "com.lagou.entity.mobile.MobilePosition"
+                    },
+                    "positionId": 3319804,
+                    "positionName": "品牌",
+                    "city": "北京",
+                    "createTime": "今天 09:09",
+                    "salary": "15k-20k",
+                    "companyId": 163169,
+                    "companyLogo": "https://static.lagou.com/i/image/M00/83/78/CgqKkVhZ-MOAUdaWAAAIriM8wk4462.png",
+                    "companyName": "文思海辉",
+                    "companyFullName": "文思海辉技术有限公司"
+                }],
+                "totalCount": "286162",
+                "pageNo": 2
+            }
+        },
+        "rows": [
+
+        ]
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}

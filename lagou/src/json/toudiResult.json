@@ -1,0 +1,129 @@
+{
+	"result": [{
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 0,
+			"msg": "不合适"
+		},
+		"positionId": 3308341,
+		"positionName": "Java讲师",
+		"city": "深圳",
+		"createTime": "今天 09:12",
+		"salary": "15k-25k",
+		"companyId": 65521,
+		"companyLogo": "https://static.lagou.com/i/image/M00/0C/EE/Cgp3O1bYDsOAQm_5AAEbfZ2PpKE601.jpg",
+		"companyName": "泽林信息",
+		"companyFullName": "深圳市泽林信息咨询有限公司"
+	}, {
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 1,
+			"msg": "被查看"
+		},
+		"positionId": 3308382,
+		"positionName": "测试讲师",
+		"city": "深圳",
+		"createTime": "今天 09:12",
+		"salary": "15k-25k",
+		"companyId": 65521,
+		"companyLogo": "https://static.lagou.com/i/image/M00/0C/EE/Cgp3O1bYDsOAQm_5AAEbfZ2PpKE601.jpg",
+		"companyName": "泽林信息",
+		"companyFullName": "深圳市泽林信息咨询有限公司"
+	}, {
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 1,
+			"msg": "被查看"
+		},
+		"positionId": 3310751,
+		"positionName": "渠道管理",
+		"city": "北京",
+		"createTime": "今天 09:12",
+		"salary": "6k-10k",
+		"companyId": 51649,
+		"companyLogo": "https://static.lagou.com/i/image/M00/0D/9E/CgpEMljl4JCAB4NsAAAT2z7aW8s078.jpg",
+		"companyName": "掌众金服",
+		"companyFullName": "北京掌众科技有限公司"
+	}, {
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 1,
+			"msg": "被查看"
+		},
+		"positionId": 3310808,
+		"positionName": "渠道专员",
+		"city": "北京",
+		"createTime": "今天 09:12",
+		"salary": "6k-10k",
+		"companyId": 51649,
+		"companyLogo": "https://static.lagou.com/i/image/M00/0D/9E/CgpEMljl4JCAB4NsAAAT2z7aW8s078.jpg",
+		"companyName": "掌众金服",
+		"companyFullName": "北京掌众科技有限公司"
+	}, {
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 2,
+			"msg": "邀面试"
+		},
+		"positionId": 3306160,
+		"positionName": "产品运营",
+		"city": "杭州",
+		"createTime": "今天 09:12",
+		"salary": "10k-18k",
+		"companyId": 4840,
+		"companyLogo": "https://static.lagou.com/image1/M00/0A/64/CgYXBlTu4_aACtZ-AACNAYSGRdI299.png",
+		"companyName": "光云科技",
+		"companyFullName": "杭州光云科技股份有限公司"
+	}, {
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 2,
+			"msg": "邀面试"
+		},
+		"positionId": 3313538,
+		"positionName": "客服专员",
+		"city": "上海",
+		"createTime": "今天 09:11",
+		"salary": "4k-5k",
+		"companyId": 23912,
+		"companyLogo": "https://static.lagou.com/i/image/M00/6F/59/Cgp3O1gkDuqATXRfAAASrOi32Mg378.jpg",
+		"companyName": "好食期&爱抢购",
+		"companyFullName": "上海多维度网络科技股份有限公司"
+	}, {
+		"logger": {
+			"traceCapable": true,
+			"name": "com.lagou.entity.mobile.MobilePosition"
+		},
+		"state": {
+			"code": 3,
+			"msg": "未查看"
+		},
+		"positionId": 3207523,
+		"positionName": "C++开发工程师 （云POS产品）",
+		"city": "广州",
+		"createTime": "今天 09:10",
+		"salary": "5k-6k",
+		"companyId": 166140,
+		"companyLogo": "https://static.lagou.com/i/image/M00/8A/C1/CgqKkVh29mqAPc-vAACIWUdyvOo631.jpg",
+		"companyName": "鼎捷软件",
+		"companyFullName": "鼎捷软件股份有限公司"
+	}]
+}
